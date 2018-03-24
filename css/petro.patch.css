@@ -1,0 +1,124 @@
+a, .dashboard-page .updates a {
+  color: #00B96F;
+}
+
+.home-page h1 {
+  color: #DCC857;
+  background: url(../images/metro-logo.png) no-repeat;
+  background-size: 90px;
+  background-position-x: calc(50% - 305px);
+}
+
+.navbar-default .navbar-nav li a[ui-sref="app.signup"] {
+  color: #00B96F;
+}
+
+.navbar-default .navbar-brand {
+  color: #414042;
+}
+
+.brand-name-2 {
+  color: #DCC857;
+  text-transform: capitalize;
+}
+
+.navbar-brand span:first-of-type {
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.signup-page .btn-primary {
+  background-color: #414042;
+  border-color: #414042;
+}
+
+.signup-page .btn-primary:first-of-type {
+  background-color: #DCC857;
+  border-color: #DCC857;
+  color: #000;
+}
+
+.login-page .btn-import {
+  background-color: #414042;
+  color: #fff;
+}
+
+.login-page .btn-import:hover {
+  background-color: #00B96F;
+}
+
+.btn-success {
+  background-color: #DCC857;
+  border-color: #DCC857;
+  color: #000;
+}
+
+.btn-success:hover, .btn-success:active, .btn-success:focus {
+  background-color: #00B96F !important;
+  border-color: #00B96F !important;
+}
+
+select {
+  border: 1px solid #00B96F !important;
+}
+
+.form-control {
+  border-bottom: 1px solid #00B96F !important;
+}
+
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:focus, .nav-tabs > li.active > a:hover, .nav-tabs > li > a.active {
+  background-color: #00B96F;
+}
+
+.panel-heading {
+  border-bottom: 1px solid #00B96F !important;
+}
+
+.nav-tabs .badge {
+  color: #000;
+  background-color: #DCC857;
+}
+
+thead, th {
+  border-bottom: 1px solid #00B96F !important;
+}
+
+.input-group-btn .btn-warning {
+  background: #DCC857;
+  border: 1px solid #DCC857;
+  color: #000;
+}
+
+.fa-home, .fa-send, .fa-user-plus  {
+  color: #00B96F;
+}
+
+.input-group-btn .btn-warning:hover, .input-group-btn .btn-warning:active, .input-group-btn .btn-warning:focus {
+  background: #00B96F !important;
+  border: 1px solid #00B96F !important;
+  color: white !important;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #00B96F;
+  border-color: #00B96F;
+}
+
+.account-page .btn-block {
+  border-radius: 0;
+  color: white;
+  background: #414042;
+  border: 1px solid #414042;
+}
+
+.account-page .btn-block:hover, .account-page .btn-block:active {
+  background: #00B96F;
+  border: 1px solid #00B96F;
+  color: white;
+}
+
+.importance-transfer-page .input-group-btn.showHide .btn-primary, .account-page .input-group-btn.showHide .btn-primary, .importance-transfer-page .input-group-btn.showHide .btn-danger, .account-page .input-group-btn.showHide .btn-danger, .importance-transfer-page .dLoad .btn-primary, .account-page .dLoad .btn-primary, .importance-transfer-page .dLoad .btn-danger, .account-page .dLoad .btn-danger {
+  background: #00B96F;
+  border: 1px solid #00B96F;
+}
